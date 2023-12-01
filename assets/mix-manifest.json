@@ -1,0 +1,15 @@
+{
+    "/js/give-recurring.min.js": "/js/give-recurring.min.js",
+    "/js/give-recurring-admin-forms.min.js": "/js/give-recurring-admin-forms.min.js",
+    "/js/give-recurring-admin-modal.min.js": "/js/give-recurring-admin-modal.min.js",
+    "/js/give-recurring-admin-settings.min.js": "/js/give-recurring-admin-settings.min.js",
+    "/js/give-recurring-admin-subscriptions.min.js": "/js/give-recurring-admin-subscriptions.min.js",
+    "/js/give-recurring-admin-synchronizer.min.js": "/js/give-recurring-admin-synchronizer.min.js",
+    "/css/give-recurring-admin-settings.min.css": "/css/give-recurring-admin-settings.min.css",
+    "/css/give-recurring-admin-modal.min.css": "/css/give-recurring-admin-modal.min.css",
+    "/css/give-recurring-admin-form.min.css": "/css/give-recurring-admin-form.min.css",
+    "/css/give-recurring-admin-donations.min.css": "/css/give-recurring-admin-donations.min.css",
+    "/css/give-recurring.min.css": "/css/give-recurring.min.css",
+    "/css/give-recurring-admin-synchronizer.min.css": "/css/give-recurring-admin-synchronizer.min.css",
+    "/css/give-recurring-admin-subscriptions.min.css": "/css/give-recurring-admin-subscriptions.min.css"
+}
